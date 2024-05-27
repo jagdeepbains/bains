@@ -1,4 +1,4 @@
 bains
 =====
 
-This is a temporary Repo for code testing purpose
+Experimenting, Improving and Building what matters the most.
